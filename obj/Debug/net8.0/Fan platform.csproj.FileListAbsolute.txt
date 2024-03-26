@@ -1,0 +1,70 @@
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\appsettings.json
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Fan platform.exe
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Fan platform.deps.json
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Fan platform.runtimeconfig.json
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Fan platform.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Fan platform.pdb
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.csproj.AssemblyReference.cache
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.AssemblyInfoInputs.cache
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.AssemblyInfo.cs
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.csproj.CoreCompileInputs.cache
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\staticwebassets\msbuild.Fan platform.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\staticwebassets\msbuild.build.Fan platform.props
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Fan platform.props
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Fan platform.props
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\scopedcss\bundle\Fan platform.styles.css
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan plat.52956EA8.Up2Date
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\refint\Fan platform.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.pdb
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\Fan platform.genruntimeconfig.cache
+C:\Users\szori\source\repos\Fan platform\Fan platform\obj\Debug\net8.0\ref\Fan platform.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szori\source\repos\Fan platform\Fan platform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
